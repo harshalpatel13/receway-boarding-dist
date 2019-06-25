@@ -1,0 +1,62 @@
+{
+  "Home": {
+    "RACINGQUOTES": "RACING QUOTES: “If you don't come walking back to the pits every once in a while, holding your steering wheel in your hands, you're not trying hard enough.” ― Mario Andretti",
+    "AttentionNotification": [
+      "2018 DO4SA Rules & Regulations - Under Info/Member Info update was done."
+    ],
+    "DO4SAClubCalender": [
+      "1 Jun'19 Prize Giving",
+      "31 Aug'19",
+      "27&28 Sept Nat",
+      "26 Oct'19",
+      "30 Nov'19"
+    ],
+    "YouTubeLink": "K1WkHwS7RTQ",
+    "TygerbergRacewayInfoList": [
+      {
+        "imgPath": "../../content/img/home/1.jpg",
+        "infoDetails": "Tygerberg Raceway hosted the <b> <code> DO4SA National </code></b>event on 30 November 2013, where-after the South African Champions were crowned. This will be the ONLY recognised SA Championship in South Africa for Dirt Oval Track Racing in 2013, ratified by MSA, SASCOC and the Dept Sport & Recreation. Any other claim by a competitor to be the South African Champion (or SA1) will, therefore, be fraudulent or a misrepresentation (like a false license plate on a road-car which is not registered on the E-Natis system). To be a South African Champion (SA1), your result needs to be registered with the relevant authorities, which will be the case following this prestigious DO4SA event."
+      },
+      {
+        "imgPath": "../../content/img/home/2.jpg",
+        "infoDetails": "We are proud to announce the International events taking place on the 8th February 2014 (for the 2.1 modifieds), the 15th February (for the Hotrods) and March date still to be determined for the Late Models. After each event, the results will determine which competitors receive their Protea Colours for Motorsport. This is the highest achievement possible in Motorsport in South Africa, and we are proud to be in a position to offer you this opportunity."
+      },
+      {
+        "imgPath": "../../content/img/home/3.jpg",
+        "infoDetails": "The Regional events to be competed in at the various DO4SA-affiliated clubs in 2014 will determine which competitors receive their Regional Colours (WP, EC, OFS, etc). We are proud to have reached the point in our sport where Regional Colours will once again become a reality."
+      },
+      {
+        "imgPath": "../../content/img/home/1.jpg",
+        "infoDetails": "Chris Liebenberg het die regte van Dirt Oval Racing by MSA bekom en DIRT OVAL 4 SA tot stand gebring. Al die bestaande MSA grondbane (dirt oval) val nou onder DIRT OVAL 4 SA en sal net soos MSA en WOMZA hulle lede se wedren belange hanteer.<code><a> Kliek hier </a></code> vir meer besonderhede."
+      }
+    ]
+  },
+  "gallery": {
+    "videoList": [
+      {
+        "id": 1,
+        "link": "http://www.youtube.com/embed/MKWOdtym8oM?wmode=transparent"
+      },
+      {
+        "id": 2,
+        "link": "http://www.youtube.com/embed/S9LV3xj6bLk?wmode=transparent"
+      },
+      {
+        "id": 3,
+        "link": "http://www.youtube.com/embed/5BzizezpB84?wmode=transparent"
+      },
+      {
+        "id": 4,
+        "link": "http://www.youtube.com/embed/AM5Q4SbbW4A?wmode=transparent"
+      },
+      {
+        "id": 5,
+        "link": "http://www.youtube.com/embed/S3i2HEAol_0?wmode=transparent"
+      },
+      {
+        "id": 6,
+        "link": "http://www.youtube.com/embed/D5Bk1GUnlGw?wmode=transparent"
+      }
+    ]
+  }
+}
